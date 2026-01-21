@@ -22,6 +22,27 @@
 - 성능 개선, 부하 테스트에서 시작해 Cache와 Query 최적화로 마무리합니다.
 - 협업, 자동화와 문서화로 팀의 흐름이 끊기지 않게 합니다.
 
+<h2>🛠 Tech Stack</h2> <br/>
+Backend
+
+<p> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Hibernate(JPA)-59666C?style=for-the-badge&logo=hibernate&logoColor=white"> <img src="https://img.shields.io/badge/QueryDSL-07ADEE?style=for-the-badge&logo=databricks&logoColor=white"> </p>
+
+Database & Cache
+
+<p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> </p>
+
+Infrastructure & Cloud
+
+<p> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"> </p>
+
+DevOps & CI/CD
+
+<p> <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> </p>
+
+Monitoring
+
+<p> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"> </p>
+
 ## 대표 프로젝트
 ### DO DREAM AI 기반 시각 장애인 학습 플랫폼
 Infra와 운영을 주도하며 재현 가능한 배포 구조를 구축했습니다.
@@ -43,13 +64,6 @@ Repo https://github.com/jgm0327/danggunMarket
 - 매일 03 10 KST 스케줄러 기반 자동 발급, 페이징 기반 배치 처리
 - QueryDSL bulk update와 lock으로 중복 발급 방지
 Repo https://github.com/CANSHOOT/solsol-backend
-
-## 기술 스택
-- Java, Spring Boot, JPA, QueryDSL
-- MySQL, Redis
-- AWS EC2, RDS, S3, CloudFront
-- Docker Compose, Nginx, Jenkins
-- Prometheus, Grafana
 
 ## 성장과 태도
 - 알고리즘 문제 1000개 이상 풀이로 문제 해결력을 꾸준히 강화했습니다.
